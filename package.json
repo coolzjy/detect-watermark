@@ -1,0 +1,14 @@
+{
+  "name": "detect-watermark",
+  "author": "Zhang Visper",
+  "license": "MIT",
+  "scripts": {
+    "start": "rollup -w --config rollup.config.js"
+  },
+  "devDependencies": {
+    "rollup": "^2.79.0",
+    "@rollup/plugin-typescript": "^8.4.0",
+    "tslib": "^2.4.0",
+    "typescript": "^4.8.2"
+  }
+}
